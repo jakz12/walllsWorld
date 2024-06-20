@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828766889904",
+    "firebase_url": "https://wallsart-b0a5b.firebaseio.com",
+    "project_id": "wallsart-b0a5b",
+    "storage_bucket": "wallsart-b0a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828766889904:android:693f48c027bf25df645875",
+        "android_client_info": {
+          "package_name": "co.universetech.WallArt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828766889904-1aahi56epurtnooh5r5qd2qq4kdn7i48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6UPI440KquiLKxhMtHwYhKQuLVI8SQq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828766889904-1aahi56epurtnooh5r5qd2qq4kdn7i48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
